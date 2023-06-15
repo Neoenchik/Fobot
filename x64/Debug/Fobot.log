@@ -1,0 +1,75 @@
+﻿  MainWin.cpp
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(21,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(34,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(47,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(58,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(59,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(70,12): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(80,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(81,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(92,2): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialSpr.h(96,22): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(20,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(28,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(39,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(50,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(51,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(62,2): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(66,22): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(74,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(75,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankSpr.h(86,12): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\TankReference.h(182,3): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(31,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(44,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(57,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(68,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(69,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(80,2): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(84,22): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(92,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(93,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SUGSpr.h(104,12): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\SugSprWin.h(163,3): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(20,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(33,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(46,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(57,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(58,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(69,2): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(73,22): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(81,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(82,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSpr.h(93,12): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\KlapanSprav.h(167,3): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MaterialReferenceMain.h(184,3): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(57,30): warning C4101: NSTEP: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(57,46): warning C4101: GRR1: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(122,12): warning C4101: PR: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(138,26): warning C4101: EGn: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(293,9): warning C4101: F2: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(290,6): warning C4101: INS: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(290,11): warning C4101: I: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(290,18): warning C4101: IK: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(290,14): warning C4101: IM: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(290,22): warning C4101: ID: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(293,5): warning C4101: Z1: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(292,4): warning C4101: Z2: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(354,7): warning C4101: F: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(353,11): warning C4101: I: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(353,18): warning C4101: IK: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(353,14): warning C4101: IM: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(353,22): warning C4101: ID: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(354,4): warning C4101: X: неиспользованная локальная переменная
+C:\Users\gvozd\source\repos\Fobot\Fobot\Vars.h(234): warning C4715: GetMaxIndex: значение возвращается не при всех путях выполнения
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(37): warning C4715: LINT: значение возвращается не при всех путях выполнения
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(283): warning C4715: DBLINT: значение возвращается не при всех путях выполнения
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(175): warning C4700: использована неинициализированная локальная переменная "I"
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(280): warning C4700: использована неинициализированная локальная переменная "Kk"
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(280): warning C4700: использована неинициализированная локальная переменная "Kn"
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(488): warning C4715: DBPs: значение возвращается не при всех путях выполнения
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(400): warning C4700: использована неинициализированная локальная переменная "I"
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(443): warning C4700: использована неинициализированная локальная переменная "Kk"
+C:\Users\gvozd\source\repos\Fobot\Fobot\MathUnit.h(484): warning C4700: использована неинициализированная локальная переменная "Kn"
+  KlapanProperty.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Fobot.vcxproj -> C:\Users\gvozd\source\repos\Fobot\x64\Debug\Fobot.exe
